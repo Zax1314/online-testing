@@ -1,0 +1,42 @@
+{
+  "community serives": {
+    "serives": [
+      {
+        "id": "1",
+        "serive project": "为老服务"
+      },
+      {
+        "id": "2",
+        "serive project": "社会保障服务"
+      },
+      {
+        "id": "3",
+        "serive project": "优抚服务"
+      },
+      {
+        "id": "4",
+        "serive project": "为残疾人服务"
+      },
+      {
+        "id": "5",
+        "serive project": "安全防范服务"
+      },
+      {
+        "id": "6",
+        "serive project": "卫生保健服务"
+      },
+      {
+        "id": "7",
+        "serive project": "为青少年服务"
+      },
+      {
+        "id": "8",
+        "serive project": "家政服务"
+      },
+      {
+        "id": "10",
+        "serive project": "中介服务"
+      }
+    ]
+  }
+}

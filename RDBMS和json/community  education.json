@@ -1,0 +1,70 @@
+{
+  "community education": {
+    "courses": [
+      {
+        "id": "1",
+        "coursename": "补偿式教育",
+        "teacher": "马云"
+      },
+      {
+        "id": "2",
+        "coursename": "发展式教育",
+        "teacher": "马化腾"
+      },
+      {
+        "id": "3",
+        "coursename": "控制式教育",
+        "teacher": "雷军"
+      }
+    ],
+    
+    "services": [
+      {
+        "id": "1",
+        "servicename": "家庭生活教育",
+        "teachername": "马云"
+      },
+      {
+        "id": "2",
+        "servicename": "公民教育",
+        "teachername": "马化腾"
+      },
+      {
+         "id": "3",
+        "servicename": "成人教育",
+        "teachername": "雷军"
+      },
+      {
+         "id": "4",
+        "servicename": "健康教育",
+        "teachername": "雷军"
+      }
+    ],
+    "teachers": [
+      {
+        "id": "1",
+        "teachername": "马云",
+        "servicename": "家庭生活教育",
+        "coursename": "补偿式教育"
+      },
+      {
+        "id": "2",
+        "teachername": "马华腾",
+        "servicename": "公民教育",
+        "coursename": "发展式教育"
+      },
+      {
+         "id": "3",
+        "teachername": "雷军",
+        "servicename": "控制式教育",
+        "coursename": "成人教育"
+      },
+      {
+         "id": "4",
+        "teachername": "雷军",
+        "servicename": "控制式教育",
+        "coursename": "健康教育"
+      }
+    ]
+  }
+}

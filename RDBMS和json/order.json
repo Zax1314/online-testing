@@ -1,0 +1,66 @@
+{
+	"order":{
+		"sites": [
+		{ 
+			 "order_id":"O01",  
+			 "user_id":"1811030101",  
+			 "coupon_id":"C01", 
+			 "create_data":"2021-04-21 20:42:35",
+			 "tatal_amount":"23.46",
+			 "pay_amount":"12.32",
+			 "freight_amount":"8.00",
+			 "promotion_amount":"0.10",
+			 "integration_amount":"0.04",
+			 "coupon_amount":"3.00",
+			 "receiver_name":"张三",
+			 "receiver_tel":"17760145122",
+			 "adsress":"四川省成都市锦江区四川师范学院",
+			 "note":"请发韵达快递",
+			 "ware_id":"W01",
+			 "ware_name":"心相印抽纸",
+			 "ware_price":"6.16",
+			 "quantity":"2"			 
+		},
+		{
+			 "order_id":"O02",  
+			 "user_id":"1811030102",  
+			 "coupon_id":"C02", 
+			 "create_data":"2021-04-21 20:47:35",
+			 "tatal_amount":"87.50",
+			 "pay_amount":"87.50",
+			 "freight_amount":"8.00",
+			 "promotion_amount":"0.00",
+			 "integration_amount":"0.00",
+			 "coupon_amount":"0.00",
+			 "receiver_name":"李四",
+			 "receiver_tel":"13860265172",
+			 "adsress":"四川省成都市温江区成都师范学院",
+			 "note":"",
+			 "ware_id":"W02",
+			 "ware_name":"WIS面膜",
+			 "ware_price":"79.50",
+			 "quantity":"1"			 
+		},
+		{
+			 "order_id":"O03",  
+			 "user_id":"1811030103",  
+			 "coupon_id":"C03", 
+			 "create_data":"2021-04-21 20:49:24",
+			 "tatal_amount":"19.50",
+			 "pay_amount":"19.50",
+			 "freight_amount":"8.00",
+			 "promotion_amount":"0.00",
+			 "integration_amount":"0.00",
+			 "coupon_amount":"0.00",
+			 "receiver_name":"王五",
+			 "receiver_tel":"19960283160",
+			 "adsress":"四川省成都市温江区成都中医药大学",
+			 "note":"",
+			 "ware_id":"W03",
+			 "ware_name":"御泥坊洗面奶",
+			 "ware_price":"11.50",
+			 "quantity":"1"			 
+		}
+		]
+	}
+}

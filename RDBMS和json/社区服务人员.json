@@ -1,0 +1,62 @@
+{
+  "user": {
+    "serives": [
+      {
+        "id": "1",
+        "name":"张三",
+        "tel":"11111111",
+        "recive project": "为老服务",
+        "start_time":"2020/2/1",
+         "price":"51.2"
+      },
+     {
+        "id": "2",
+        "name":"李四",
+        "tel":"22222222",
+        "recive project": "为老服务",
+        "start_time":"2020/2/1",
+         "price":"41.2"
+      },
+     {
+        "id": "3",
+        "name":"王五",
+        "tel":"12222222",
+        "recive project": "安全防范服务",
+        "start_time":"2020/2/3",
+         "price":"1211.2"
+      },
+     {
+        "id": "4",
+        "name":"张啊是大",
+        "tel":"188888888",
+        "recive project": "为老服务",
+        "start_time":"2020/2/4",
+         "price":"211.2"
+      },
+      {
+        "id": "5",
+        "name":"张啊三",
+        "tel":"1999999999",
+        "recive project": "为残疾人服务",
+        "start_time":"2020/2/5",
+         "price":"1231.2"
+      },
+     {
+        "id": "6",
+        "name":"张阿萨",
+        "tel":"1444444444",
+        "recive project": "优抚服务",
+        "start_time":"2020/2/6",
+         "price":"121.2"
+      },
+    {
+        "id": "7",
+        "name":"张器",
+        "tel":"13333333",
+        "recive project": "社会保障服务",
+        "start_time":"2020/2/7",
+         "price":"1221.2"
+      }
+    ]
+  }
+}
