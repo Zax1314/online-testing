@@ -1,0 +1,28 @@
+{	
+	"evaluation":{
+		
+		"Curriculum evaluation":{
+			"Curriculum_id":"",
+			"Curriculum_name":"",
+			"Student_id":"",
+			"Student_name":"",
+			"Teacher":"",
+			"Teacher_id":"",
+			"mark":"",
+			"comment_id":"",
+			"comment_content":""
+		},
+		
+		"The teacher evaluation":{
+			"Teacher_id":"",
+			"Teacher_name":"",
+			"reviewers of student":"",
+			"student_id":"",
+			"mark":"",
+			"comment_id":"",
+			"comment_content":""
+		}
+		
+	}
+	
+}

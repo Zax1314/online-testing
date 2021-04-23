@@ -1,0 +1,13 @@
+{	
+	"serve":{
+		"serve_id":"",
+		"serve_name":"",
+		"user_id":"",
+		"user_name":"",
+		"serve_content":"",
+		"waiter":"",
+		"mark":"",
+		"comment_id":"",
+		"comment_content":""
+	}	
+}
